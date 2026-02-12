@@ -1,1 +1,1 @@
-# Meu-Curriculo
+Desenvolvedor jovem e dedicado, com experiência criando sistemas completos utilizando React, TypeScript, Java e MySQL. Apaixonado por tecnologia, interfaces modernas e soluções eficientes, desenvolvo projetos com foco em organização, qualidade e aprendizado contínuo. Já produzi aplicações completas com autenticação, dashboards, APIs e banco de dados, além de dominar conceitos de UI/UX e animações modernas estilo Apple. Busco sempre evoluir, enfrentar novos desafios e entregar resultados reais.
